@@ -1,0 +1,6 @@
+Page1
+echo helloP1
+set x 10
+echo $x
+Page#2
+echo byeP1
